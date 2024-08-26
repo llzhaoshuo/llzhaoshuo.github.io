@@ -32,28 +32,31 @@ My research interests include but not limited to computer vision, person re-iden
 
 
 # Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks 2024</div><img src='../images/GCReID.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Generalized Continual Person Re-identification via Meta learning and Knowledge Accumulation](https://www.sciencedirect.com/science/article/abs/pii/S0893608024004854)
 
 **Zhaoshuo Liu**, Chaolu Feng*, Kun Yu, Jun Hu, Jinzhu Yang
 
-[**Code**](https://github.com/DFLAG-NEU/GCReID) | <strong>SCI Journal Paper</strong>
-- Neural Networks, 2024, 179: 106561. DOI: https://doi.org/10.1016/j.neunet.2024.106561.
+[**Code**](https://github.com/DFLAG-NEU/GCReID) | <strong>Neural Networks 2024</strong> | [**DOI**](https://doi.org/10.1016/j.neunet.2024.106561)
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='../images/GCReID.jpg' alt="sym" width="100%"></div></div>
+
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Multimedia Tools and Applications 2024</div><img src='../images/DFBNet.jpg' alt="sym" width="100%"></div></div>
+
 <div class='paper-box-text' markdown="1">
 
 [Learning discriminative foreground-and-background features for few-shot segmentation](https://link.springer.com/article/10.1007/s11042-023-17708-5)
 
 Cong Jiang, Yange Zhou, **Zhaoshuo Liu**, Chaolu Feng*, Wei Li, Jinzhu Yang
 
-[**Code**](https://github.com/DFLAG-NEU/DFBNet) | <strong>SCI Journal Paper</strong>
-- Multimedia Tools and Applications, 2024, 83(18): 55999-56019. DOI: https://doi.org/10.1007/s11042-023-17708-5.
+[**Code**](https://github.com/DFLAG-NEU/DFBNet) | <strong>Multimedia Tools and Applications 2024</strong> | [**DOI**](https://doi.org/10.1007/s11042-023-17708-5)
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='../images/DFBNet.jpg' alt="sym" width="100%"></div></div>
 </div>
 </div>
 
@@ -65,8 +68,8 @@ Cong Jiang, Yange Zhou, **Zhaoshuo Liu**, Chaolu Feng*, Wei Li, Jinzhu Yang
 
 **Zhaoshuo Liu**, Chaolu Feng*, Shuaizheng Chen, Jun Hu
 
-[**Code**](https://github.com/DFLAG-NEU/ContinualReID) | <strong>SCI Journal Paper</strong>
-- Neural Networks, 2023, 161: 105-115. DOI: https://doi.org/10.1016/j.neunet.2023.01.033.
+[**Code**](https://github.com/DFLAG-NEU/ContinualReID)  | <strong>Neural Networks 2023</strong> | [**DOI**](https://doi.org/10.1016/j.neunet.2023.01.033)
+
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='../images/CKP.jpg' alt="sym" width="100%"></div></div>
 </div>
