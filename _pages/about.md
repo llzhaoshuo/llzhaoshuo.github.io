@@ -32,9 +32,24 @@ My research interests include but not limited to computer vision, person re-iden
 
 
 # Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks 2024</div><img src='../images/GCReID.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Generalized Continual Person Re-identification via Meta learning and Knowledge Accumulation](https://www.sciencedirect.com/science/article/abs/pii/S0893608024004854)
+
+**Zhaoshuo Liu**, Chaolu Feng*, Kun Yu, Jun Hu, Jinzhu Yang
+
+[**Code**](https://github.com/DFLAG-NEU/GCReID) | <strong>SCI Journal Paper</strong>
+- IEEE Access, vol. 11, pp. 87732-87746, 2023, doi: 10.1109/ACCESS.2023.3305453.
+</div>
+</div>
+
+
+
+<div class='paper-box-text' markdown="1">
+
+📝[Generalized Continual Person Re-identification via Meta learning and Knowledge Accumulation](https://www.sciencedirect.com/science/article/abs/pii/S0893608024004854)
 
 **Zhaoshuo Liu**, Chaolu Feng*, Kun Yu, Jun Hu, Jinzhu Yang
 
@@ -49,7 +64,7 @@ My research interests include but not limited to computer vision, person re-iden
 
 <div class='paper-box-text' markdown="1">
 
-[Learning discriminative foreground-and-background features for few-shot segmentation](https://link.springer.com/article/10.1007/s11042-023-17708-5)
+📝[Learning discriminative foreground-and-background features for few-shot segmentation](https://link.springer.com/article/10.1007/s11042-023-17708-5)
 
 Cong Jiang, Yange Zhou, **Zhaoshuo Liu**, Chaolu Feng*, Wei Li, Jinzhu Yang
 
@@ -64,7 +79,7 @@ Cong Jiang, Yange Zhou, **Zhaoshuo Liu**, Chaolu Feng*, Wei Li, Jinzhu Yang
 
 <div class='paper-box-text' markdown="1">
 
-[Knowledge-Preserving continual person re-identification using Graph Attention Network](https://www.sciencedirect.com/science/article/abs/pii/S089360802300045X)
+📝[Knowledge-Preserving continual person re-identification using Graph Attention Network](https://www.sciencedirect.com/science/article/abs/pii/S089360802300045X)
 
 **Zhaoshuo Liu**, Chaolu Feng*, Shuaizheng Chen, Jun Hu
 
