@@ -58,7 +58,7 @@ Cong Jiang, Yange Zhou, **Zhaoshuo Liu**, Chaolu Feng*, Wei Li, Jinzhu Yang
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks 2023</div><img src='../images/CKP.jpg' alt="sym" width="100%"></div></div>
+
 <div class='paper-box-text' markdown="1">
 
 [Knowledge-Preserving continual person re-identification using Graph Attention Network](https://www.sciencedirect.com/science/article/abs/pii/S089360802300045X)
@@ -67,6 +67,8 @@ Cong Jiang, Yange Zhou, **Zhaoshuo Liu**, Chaolu Feng*, Wei Li, Jinzhu Yang
 
 [**Code**](https://github.com/DFLAG-NEU/ContinualReID) | <strong>SCI Journal Paper</strong>
 - Neural Networks, 2023, 161: 105-115. DOI: https://doi.org/10.1016/j.neunet.2023.01.033.
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='../images/CKP.jpg' alt="sym" width="100%"></div></div>
 </div>
 </div>
 
