@@ -32,7 +32,8 @@ My research interests include but not limited to computer vision, person re-iden
 
 
 # Publications 
-📝[Generalized Continual Person Re-identification via Meta learning and Knowledge Accumulation](https://www.sciencedirect.com/science/article/abs/pii/S0893608024004854) | [**Code**](https://github.com/DFLAG-NEU/GCReID) | <strong>Neural Networks 2024</strong> | [**DOI**](https://doi.org/10.1016/j.neunet.2024.106561)
+📝[Generalized Continual Person Re-identification via Meta learning and Knowledge Accumulation](https://www.sciencedirect.com/science/article/abs/pii/S0893608024004854) | [**Code**](https://github.com/DFLAG-NEU/GCReID) 
+
 **Zhaoshuo Liu**, Chaolu Feng*, Kun Yu, Jun Hu, Jinzhu Yang
 
 <div class='paper-box-text' markdown="1">
@@ -45,7 +46,8 @@ My research interests include but not limited to computer vision, person re-iden
 
 
 📝[Learning discriminative foreground-and-background features for few-shot segmentation](https://link.springer.com/article/10.1007/s11042-023-17708-5)
-| [**Code**](https://github.com/DFLAG-NEU/DFBNet) | <strong>Multimedia Tools and Applications 2024</strong> | [**DOI**](https://doi.org/10.1007/s11042-023-17708-5)
+ | [**Code**](https://github.com/DFLAG-NEU/DFBNet)
+
 Cong Jiang, Yange Zhou, **Zhaoshuo Liu**, Chaolu Feng*, Wei Li, Jinzhu Yang
 
 <div class='paper-box-text' markdown="1">
@@ -57,10 +59,8 @@ Cong Jiang, Yange Zhou, **Zhaoshuo Liu**, Chaolu Feng*, Wei Li, Jinzhu Yang
 
 
 
-📝[Knowledge-Preserving continual person re-identification using Graph Attention Network](https://www.sciencedirect.com/science/article/abs/pii/S089360802300045X)
+📝[Knowledge-Preserving continual person re-identification using Graph Attention Network](https://www.sciencedirect.com/science/article/abs/pii/S089360802300045X) | [**Code**](https://github.com/DFLAG-NEU/ContinualReID)
 **Zhaoshuo Liu**, Chaolu Feng*, Shuaizheng Chen, Jun Hu
-
-[**Code**](https://github.com/DFLAG-NEU/ContinualReID)  | <strong>Neural Networks 2023</strong> | [**DOI**](https://doi.org/10.1016/j.neunet.2023.01.033)
 
 <div class='paper-box-text' markdown="1">
 <div class='paper-box'><div class='paper-box-image'><div><img src='../images/CKP.jpg' alt="sym" width="100%"></div></div>
