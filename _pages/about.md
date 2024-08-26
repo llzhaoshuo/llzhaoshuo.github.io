@@ -36,10 +36,8 @@ My research interests include but not limited to computer vision, person re-iden
 
 **Zhaoshuo Liu**, Chaolu Feng*, Kun Yu, Jun Hu, Jinzhu Yang
 
-<div class='paper-box-text' markdown="1">
 <div class='paper-box'><div class='paper-box-image'><div><img src='../images/GCReID.jpg' alt="sym" width="100%"></div></div>
 <br><br>
-</div>
 </div>
 
 
@@ -50,12 +48,9 @@ My research interests include but not limited to computer vision, person re-iden
 
 Cong Jiang, Yange Zhou, **Zhaoshuo Liu**, Chaolu Feng*, Wei Li, Jinzhu Yang
 
-<div class='paper-box-text' markdown="1">
 <div class='paper-box'><div class='paper-box-image'><div><img src='../images/DFBNet.jpg' alt="sym" width="100%"></div></div>
 <br><br>
 </div>
-</div>
-
 
 
 
@@ -63,14 +58,11 @@ Cong Jiang, Yange Zhou, **Zhaoshuo Liu**, Chaolu Feng*, Wei Li, Jinzhu Yang
 
 **Zhaoshuo Liu**, Chaolu Feng*, Shuaizheng Chen, Jun Hu
 
-<div class='paper-box-text' markdown="1">
 <div class='paper-box'><div class='paper-box-image'><div><img src='../images/CKP.jpg' alt="sym" width="100%"></div></div>
 <br><br>
 </div>
-</div>
 
 # Educations 
-- *2012.09 - now*, PhD candidate of School of Computer Science and Engineering, Northeastern University, Shenyang, China
+- *2022.09 - now*, PhD candidate of School of Computer Science and Engineering, Northeastern University, Shenyang, China
 - *2019.09 - 2022.07*, Master of School of Computer Science and Engineering, Northeastern University, Shenyang, China
 - *2015.09 - 2019.07*, Bachelor of School of Data Science and Technology, North University of China, Taiyuan, China
-
