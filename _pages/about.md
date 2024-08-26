@@ -60,6 +60,7 @@ Cong Jiang, Yange Zhou, **Zhaoshuo Liu**, Chaolu Feng*, Wei Li, Jinzhu Yang
 
 
 📝[Knowledge-Preserving continual person re-identification using Graph Attention Network](https://www.sciencedirect.com/science/article/abs/pii/S089360802300045X) | [**Code**](https://github.com/DFLAG-NEU/ContinualReID)
+
 **Zhaoshuo Liu**, Chaolu Feng*, Shuaizheng Chen, Jun Hu
 
 <div class='paper-box-text' markdown="1">
