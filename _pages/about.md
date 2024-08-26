@@ -38,7 +38,7 @@ My research interests include but not limited to computer vision, person re-iden
 
 <div class='paper-box-text' markdown="1">
 <div class='paper-box'><div class='paper-box-image'><div><img src='../images/GCReID.jpg' alt="sym" width="100%"></div></div>
-<br><br><br>
+<br><br>
 </div>
 </div>
 
@@ -52,7 +52,7 @@ Cong Jiang, Yange Zhou, **Zhaoshuo Liu**, Chaolu Feng*, Wei Li, Jinzhu Yang
 
 <div class='paper-box-text' markdown="1">
 <div class='paper-box'><div class='paper-box-image'><div><img src='../images/DFBNet.jpg' alt="sym" width="100%"></div></div>
-<br><br><br>
+<br><br>
 </div>
 </div>
 
@@ -64,7 +64,7 @@ Cong Jiang, Yange Zhou, **Zhaoshuo Liu**, Chaolu Feng*, Wei Li, Jinzhu Yang
 
 <div class='paper-box-text' markdown="1">
 <div class='paper-box'><div class='paper-box-image'><div><img src='../images/CKP.jpg' alt="sym" width="100%"></div></div>
-<br><br><br>
+<br><br>
 </div>
 </div>
 
