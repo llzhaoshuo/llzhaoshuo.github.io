@@ -39,7 +39,7 @@ My research interests include but not limited to computer vision, person re-iden
 [**Code**](https://github.com/DFLAG-NEU/GCReID) | <strong>Neural Networks 2024</strong> | [**DOI**](https://doi.org/10.1016/j.neunet.2024.106561)
 <div class='paper-box-text' markdown="1">
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks 2024</div><img src='../images/GCReID.jpg' alt="sym" width="100%"></div></div>
-
+</div>
 </div>
 
 
