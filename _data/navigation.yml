@@ -8,8 +8,8 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "What's New"
-    url: "/#what's-news"
+  - title: "News"
+    url: "/#news"
 
 
   - title: "Publications"
@@ -17,7 +17,7 @@ main:
 
   - title: "Educations"
     url: "/#educations"
-    
+
 
 
 

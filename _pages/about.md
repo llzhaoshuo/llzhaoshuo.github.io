@@ -25,7 +25,7 @@ My research interests include but not limited to computer vision, person re-iden
 
 
 
-# What's new
+# News
 - *2024.07*: &nbsp;🔥New Journal Paper on Generalized Continual Person Re-identification via Meta learning and Knowledge Accumulation Accepted by Neural Networks 2024.
 - *2024.05*: &nbsp;🎉New Journal Paper on Learning Discriminative Foreground-and-background Features for Few-shot Segmentation by Multimedia Tools and Applications 2024.
 - *2023.04*: &nbsp;🎉New Journal Paper on Knowledge-Preserving Continual Person Re-identification using Graph Attention Network Accepted by Neural Networks 2023.
