@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Zhaoshuo Liu-Homepage"
-description              : &description "PhD student of Northeastern University"
+description              : &description "PhD at Northeastern University"
 url                      : https://llzhaoshuo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "llzhaoshuo/llzhaoshuo.github.io"
@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD student of Northeastern University"
   location         : #"Shenyang, China"
-  employer         : "Visiting PhD student of Nanyang Technological University"
+  employer         : "Visiting PhD at Nanyang Technological University"
   uri              : # URL
   email            : "zsliu0925@gmail.com" 
 
