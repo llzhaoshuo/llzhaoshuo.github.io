@@ -35,7 +35,7 @@ My research interests include but not limited to computer vision, person re-iden
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Neural Networks 2024</div>
+      <div class="public-badge">Neural Networks 2024</div>
         <img src='../images/GCReID.jpg' alt="sym" width="100%">
     </div>
   </div>
@@ -47,6 +47,33 @@ My research interests include but not limited to computer vision, person re-iden
   </div>
 
 </div>
+
+.public-badge {
+	text-align: center;
+	background-image: linear-gradient(to right, #cde3e6, #999A9A), linear-gradient(100deg, #b3d5da, #8F41E9, #63acb6);
+	color: #fff;
+	font-size: 12px;
+	width: 60px;
+	border-radius: 3px 0 0 3px;
+	position: absolute;
+	top: 10px;
+	right: -8px;
+	z-index: 10;
+	padding: 3px 0;
+}
+
+.show-signal {
+	border: 4px solid #939393;
+	border-right: 4px solid transparent;
+	border-bottom: 4px solid transparent;
+	width: 0;
+	height: 0;
+	position: absolute;
+	top: 31px;
+	right: -8px;
+	z-index: 10;
+}
+
 
 📝 [Generalized Continual Person Re-identification via Meta learning and Knowledge Accumulation](https://www.sciencedirect.com/science/article/abs/pii/S0893608024004854) | [**Code**](https://github.com/DFLAG-NEU/GCReID) 
 
@@ -69,6 +96,8 @@ Cong Jiang, Yange Zhou, **Zhaoshuo Liu**, Chaolu Feng*, Wei Li, Jinzhu Yang
 <div class='paper-box'><div class='paper-box-image'><div><img src='../images/DFBNet.jpg' alt="sym" width="100%"></div></div>
 <br><br>
 </div>
+
+
 
 
 
