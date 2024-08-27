@@ -32,8 +32,10 @@ My research interests include but not limited to computer vision, person re-iden
 
 
 # Publications
-📝 [Generalized Continual Person Re-identification via Meta learning and Knowledge Accumulation](https://www.sciencedirect.com/science/article/abs/pii/S0893608024004854) | <strong>Neural Networks 2024</strong><br>
-**Zhaoshuo Liu**, Chaolu Feng*, Kun Yu, Jun Hu, Jinzhu Yang | [**Code**](https://github.com/DFLAG-NEU/GCReID) 
+📝 [Generalized Continual Person Re-identification via Meta learning and Knowledge Accumulation](https://www.sciencedirect.com/science/article/abs/pii/S0893608024004854) | <br>
+**Zhaoshuo Liu**, Chaolu Feng*, Kun Yu, Jun Hu, Jinzhu Yang | [**Code**](https://github.com/DFLAG-NEU/GCReID) <br>
+- Neural Networks 2024, 179: 106561. DOI: [https://doi.org/10.1016/j.neunet.2024.106561](https://doi.org/10.1016/j.neunet.2024.106561)
+
 <img src='../images/GCReID.jpg' alt="sym" width="100%"><br><br>
 
 📝 [Learning Discriminative Foreground-and-Background Features for Few-shot Segmentation](https://link.springer.com/article/10.1007/s11042-023-17708-5) | <strong>Multimedia Tools and Applications 2024</strong><br>
