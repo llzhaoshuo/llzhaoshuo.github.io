@@ -21,7 +21,7 @@ redirect_from:
 # About me 
 I am currently a third year Ph.D. student at School of Computer Science and Engineering (Northeastern University, China). Fortunately, I've received the funding from the China Scholarship Council (CSC) to become a visiting Ph.D. at College of Computing and Data Science (Nanyang Technological University, Singapore).
 
-My research interests include but not limited to computer vision, person re-identification, continual learning, and domain generalization.
+My research interests include but not limited to computer vision, continual learning and person re-identification.
 
 
 
