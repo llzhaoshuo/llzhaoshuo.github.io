@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Zhaoshuo Liu-Homepage"
 title_separator          : "-"
-name                     : &name ""
+name                     : &name "Homepage"
 description              : &description "PhD student of Northeastern University"
 url                      : https://llzhaoshuo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -21,7 +21,7 @@ repository               : "llzhaoshuo/llzhaoshuo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.jpg"
+  avatar           : "profile.jpg"
   name             : "Zhaoshuo Liu"
   pronouns         : # example: "she/her"  
   bio              : "PhD student of Northeastern University"
