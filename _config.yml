@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Zhaoshuo Liu-Homepage"
 title_separator          : "-"
-name                     : &name "Homepage"
+name                     : &name ""
 description              : &description "PhD student of Northeastern University"
 url                      : https://llzhaoshuo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,9 +24,9 @@ author:
   avatar           : "images/profile.jpg"
   name             : "Zhaoshuo Liu"
   pronouns         : # example: "she/her"  
-  bio              : "Visiting PhD student of Nanyang Technological University (Singapore)"
+  bio              : "PhD student of Northeastern University"
   location         : #"Shenyang, China"
-  employer         : ""
+  employer         : "Visiting PhD student of Nanyang Technological University"
   uri              : # URL
   email            : "zsliu0925@gmail.com" 
 
