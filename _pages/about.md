@@ -32,15 +32,15 @@ My research interests include but not limited to computer vision, person re-iden
 
 
 # Publications
-![](https://img.shields.io/badge/Neural Networks 2024-NN?color=ff1493) | [Generalized Continual Person Re-identification via Meta learning and Knowledge Accumulation](https://www.sciencedirect.com/science/article/abs/pii/S0893608024004854)<br>
+![](https://img.shields.io/badge/Neural Networks 2024-NN?color=ff00ff) | [Generalized Continual Person Re-identification via Meta learning and Knowledge Accumulation](https://www.sciencedirect.com/science/article/abs/pii/S0893608024004854)<br>
 **Zhaoshuo Liu**, Chaolu Feng*, Kun Yu, Jun Hu, Jinzhu Yang | [**Code**](https://github.com/DFLAG-NEU/GCReID)<br>
 <img src='../images/GCReID.jpg' alt="sym" width="100%"><br><br>
 
-![](https://img.shields.io/badge/Multimedia Tools and Applications 2024-MTA?color=ff1493) | [Learning Discriminative Foreground-and-Background Features for Few-shot Segmentation](https://link.springer.com/article/10.1007/s11042-023-17708-5)<br>
+![](https://img.shields.io/badge/Multimedia Tools and Applications 2024-MTA?color=ff00ff) | [Learning Discriminative Foreground-and-Background Features for Few-shot Segmentation](https://link.springer.com/article/10.1007/s11042-023-17708-5)<br>
 Cong Jiang, Yange Zhou, **Zhaoshuo Liu**, Chaolu Feng*, Wei Li, Jinzhu Yang  | [**Code**](https://github.com/DFLAG-NEU/DFBNet)<br>
 <img src='../images/DFBNet.jpg' alt="sym" width="100%"><br><br>
 
-![](https://img.shields.io/badge/Neural Networks 2023-NN?color=ff1493) | [Knowledge-Preserving continual person re-identification using Graph Attention Network](https://www.sciencedirect.com/science/article/abs/pii/S089360802300045X)<br> 
+![](https://img.shields.io/badge/Neural Networks 2023-NN?color=ff00ff) | [Knowledge-Preserving continual person re-identification using Graph Attention Network](https://www.sciencedirect.com/science/article/abs/pii/S089360802300045X)<br> 
 **Zhaoshuo Liu**, Chaolu Feng*, Shuaizheng Chen, Jun Hu  | [**Code**](https://github.com/DFLAG-NEU/ContinualReID)<br>
 <img src='../images/CKP.jpg' alt="sym" width="100%"><br><br>
 
