@@ -32,29 +32,17 @@ My research interests include but not limited to computer vision, person re-iden
 
 
 # Publications
-📝 [Generalized Continual Person Re-identification via Meta learning and Knowledge Accumulation](https://www.sciencedirect.com/science/article/abs/pii/S0893608024004854) | <strong>Neural Networks 2024</strong>
-
+📝 [Generalized Continual Person Re-identification via Meta learning and Knowledge Accumulation](https://www.sciencedirect.com/science/article/abs/pii/S0893608024004854) | <strong>Neural Networks 2024</strong><br>
 **Zhaoshuo Liu**, Chaolu Feng*, Kun Yu, Jun Hu, Jinzhu Yang | [**Code**](https://github.com/DFLAG-NEU/GCReID) 
-<div><img src='../images/GCReID.jpg' alt="sym" width="100%"><br><br></div>
+<img src='../images/GCReID.jpg' alt="sym" width="100%"><br><br>
 
-
-
-
-
-
-📝 [Learning Discriminative Foreground-and-Background Features for Few-shot Segmentation](https://link.springer.com/article/10.1007/s11042-023-17708-5) | <strong>Multimedia Tools and Applications 2024</strong>
-
+📝 [Learning Discriminative Foreground-and-Background Features for Few-shot Segmentation](https://link.springer.com/article/10.1007/s11042-023-17708-5) | <strong>Multimedia Tools and Applications 2024</strong><br>
 Cong Jiang, Yange Zhou, **Zhaoshuo Liu**, Chaolu Feng*, Wei Li, Jinzhu Yang  | [**Code**](https://github.com/DFLAG-NEU/DFBNet)
-<div><img src='../images/DFBNet.jpg' alt="sym" width="100%"><br><br></div>
+<img src='../images/DFBNet.jpg' alt="sym" width="100%"><br><br>
 
-
-
-
-
-📝 [Knowledge-Preserving continual person re-identification using Graph Attention Network](https://www.sciencedirect.com/science/article/abs/pii/S089360802300045X) | <strong>Neural Networks 2023</strong>
-
+📝 [Knowledge-Preserving continual person re-identification using Graph Attention Network](https://www.sciencedirect.com/science/article/abs/pii/S089360802300045X) | <strong>Neural Networks 2023</strong><br>
 **Zhaoshuo Liu**, Chaolu Feng*, Shuaizheng Chen, Jun Hu  | [**Code**](https://github.com/DFLAG-NEU/ContinualReID)
-<div><img src='../images/CKP.jpg' alt="sym" width="100%"><br><br></div>
+<img src='../images/CKP.jpg' alt="sym" width="100%"><br><br>
 
 
 
