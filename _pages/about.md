@@ -32,82 +32,31 @@ My research interests include but not limited to computer vision, person re-iden
 
 
 # Publications
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="public-badge">Neural Networks 2024</div>
-        <img src='../images/GCReID.jpg' alt="sym" width="100%">
-    </div>
-  </div>
+📝 [Generalized Continual Person Re-identification via Meta learning and Knowledge Accumulation](https://www.sciencedirect.com/science/article/abs/pii/S0893608024004854) | <strong>Neural Networks 2024</strong>
 
-  <div class='paper-box-text' markdown="1">
-    [Generalized Continual Person Re-identification via Meta learning and Knowledge Accumulation](https://www.sciencedirect.com/science/article/abs/pii/S0893608024004854) | [**Code**](https://github.com/DFLAG-NEU/GCReID) 
-
-    **Zhaoshuo Liu**, Chaolu Feng*, Kun Yu, Jun Hu, Jinzhu Yang
-  </div>
-
-</div>
-
-.public-badge {
-	text-align: center;
-	background-image: linear-gradient(to right, #cde3e6, #999A9A), linear-gradient(100deg, #b3d5da, #8F41E9, #63acb6);
-	color: #fff;
-	font-size: 12px;
-	width: 60px;
-	border-radius: 3px 0 0 3px;
-	position: absolute;
-	top: 10px;
-	right: -8px;
-	z-index: 10;
-	padding: 3px 0;
-}
-
-.show-signal {
-	border: 4px solid #939393;
-	border-right: 4px solid transparent;
-	border-bottom: 4px solid transparent;
-	width: 0;
-	height: 0;
-	position: absolute;
-	top: 31px;
-	right: -8px;
-	z-index: 10;
-}
-
-
-📝 [Generalized Continual Person Re-identification via Meta learning and Knowledge Accumulation](https://www.sciencedirect.com/science/article/abs/pii/S0893608024004854) | [**Code**](https://github.com/DFLAG-NEU/GCReID) 
-
-**Zhaoshuo Liu**, Chaolu Feng*, Kun Yu, Jun Hu, Jinzhu Yang
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='../images/GCReID.jpg' alt="sym" width="100%"></div></div>
-<br><br>
-</div>
+**Zhaoshuo Liu**, Chaolu Feng*, Kun Yu, Jun Hu, Jinzhu Yang | [**Code**](https://github.com/DFLAG-NEU/GCReID) 
+<div><img src='../images/GCReID.jpg' alt="sym" width="100%"><br><br></div>
 
 
 
 
 
 
-📝 [Learning discriminative foreground-and-background features for few-shot segmentation](https://link.springer.com/article/10.1007/s11042-023-17708-5)
- | [**Code**](https://github.com/DFLAG-NEU/DFBNet)
+📝 [Learning Discriminative Foreground-and-Background Features for Few-shot Segmentation](https://link.springer.com/article/10.1007/s11042-023-17708-5) | <strong>Multimedia Tools and Applications 2024</strong>
 
-Cong Jiang, Yange Zhou, **Zhaoshuo Liu**, Chaolu Feng*, Wei Li, Jinzhu Yang
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='../images/DFBNet.jpg' alt="sym" width="100%"></div></div>
-<br><br>
-</div>
+Cong Jiang, Yange Zhou, **Zhaoshuo Liu**, Chaolu Feng*, Wei Li, Jinzhu Yang  | [**Code**](https://github.com/DFLAG-NEU/DFBNet)
+<div><img src='../images/DFBNet.jpg' alt="sym" width="100%"><br><br></div>
 
 
 
 
 
-📝 [Knowledge-Preserving continual person re-identification using Graph Attention Network](https://www.sciencedirect.com/science/article/abs/pii/S089360802300045X) | [**Code**](https://github.com/DFLAG-NEU/ContinualReID)
+📝 [Knowledge-Preserving continual person re-identification using Graph Attention Network](https://www.sciencedirect.com/science/article/abs/pii/S089360802300045X) | <strong>Neural Networks 2023</strong>
 
-**Zhaoshuo Liu**, Chaolu Feng*, Shuaizheng Chen, Jun Hu
+**Zhaoshuo Liu**, Chaolu Feng*, Shuaizheng Chen, Jun Hu  | [**Code**](https://github.com/DFLAG-NEU/ContinualReID)
+<div><img src='../images/CKP.jpg' alt="sym" width="100%"><br><br></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='../images/CKP.jpg' alt="sym" width="100%"></div></div>
-<br><br>
-</div>
+
 
 # Educations 
 - *2022.09 - now*, PhD candidate of School of Computer Science and Engineering, Northeastern University, Shenyang, China
